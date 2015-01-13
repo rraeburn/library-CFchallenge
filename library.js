@@ -1,4 +1,4 @@
-//arrays to hold book and shelf objects
+//arrays to hold books and shelf objects
 var libraryBooks = [];
 var libraryShelves = [];
 
